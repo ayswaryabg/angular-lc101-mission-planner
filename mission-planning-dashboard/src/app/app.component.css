@@ -1,0 +1,8 @@
+.box{
+    display: flex;
+    padding: 10px;
+}
+.container{
+    border-style: double;
+    width: 500px;
+}
